@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="https://youtu.be/0z-GidYL04k" target="_blank"><img align="right" style="float:right" src="https://github.com/burakozturk16/burakozturk16/blob/main/burakstory.jpg" alt="Illustration of Burak is coding in background" width=350px/></a>
 
-<!--
-**Suat19/Suat19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Burak 👋
 
-Here are some ideas to get you started:
+I’m a software engineer with tons of skills like Nodejs, Django, Php and Java for backend systems, I'm proficient at native iOS and Android development, game development also I'm frontend team lead in a company and we use React and React Native stack for frontend works. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also Ph.D. candidate who is lazy 😄 and my thesis subject is Parallel programming based path planning for multi autonomous unmanned vehicles.
+
+- 👔 Software Engineer, A.I and M.L specialist
+- 🐍 Python Lover, Django
+- ⚛️ React master
+- 📱 Mobile developer with using Native, React Native or Flutter
+- 🎼 Musician, I love music and driving car 😄
+- 📫 How to reach me: burakozturk16@gmail.com
