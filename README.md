@@ -1,4 +1,4 @@
-<a href="https://youtu.be/0z-GidYL04k" target="_blank"><img align="right" style="float:right" src="https://github.com/Suat19/Suat19/blob/main/ss.png" alt="Illustration of Burak is coding in background" width=350px/></a>
+<a href="https://youtu.be/70bAP4LjF5Q" target="_blank"><img align="right" style="float:right" src="https://github.com/Suat19/Suat19/blob/main/ss.png" alt="Illustration of Burak is coding in background" width=350px/></a>
 
 ### Hi, I'm Burak 👋
 
